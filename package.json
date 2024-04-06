@@ -1,3 +1,16 @@
-"scripts": {
-    "build": "webpack --mode production"
+{
+    "name": "votre-projet",
+    "version": "1.0.0",
+    "description": "Description de votre projet",
+    "main": "index.js",
+    "scripts": {
+        "start": "node script.js",
+        "build": "webpack --mode production"
+    },
+    "keywords": [],
+    "author": "Votre nom",
+    "license": "MIT",
+    "dependencies": {
+
+    }
 }
